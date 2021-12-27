@@ -56,6 +56,8 @@ public class TileManager : MonoBehaviour
         tile.transform.position = Vector3.forward * zSpawn;
         tile.transform.rotation = Quaternion.identity;
         tile.SetActive(true);
+        tile.transform.GetChild(1).gameObject.SetActive(true);
+        tile.transform.GetChild(2).gameObject.SetActive(true);
 
         activeTiles.Add(tile);
         zSpawn += tileLength;

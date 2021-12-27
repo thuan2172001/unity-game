@@ -1,0 +1,62 @@
+[
+  {
+    "description": "1 + 2 = ?",
+    "options": [
+      "4",
+      "5",
+      "2",
+      "3"
+    ],
+    "answer": "3"
+  },
+  {
+    "description": "1 + 3 = ?",
+    "options": [
+      "4",
+      "5",
+      "2",
+      "3"
+    ],
+    "answer": "4"
+  },
+  {
+    "description": "2 + 2 = ?",
+    "options": [
+      "4",
+      "5",
+      "2",
+      "3"
+    ],
+    "answer": "4"
+  },
+  {
+    "description": "1 * 2 = ?",
+    "options": [
+      "4",
+      "5",
+      "2",
+      "3"
+    ],
+    "answer": "2"
+  },
+  {
+    "description": "2 * 3 = ?",
+    "options": [
+      "6",
+      "5",
+      "2",
+      "3"
+    ],
+    "answer": "6"
+  },
+  {
+    "description": "2 * 44 = ?",
+    "options": [
+      "88",
+      "5",
+      "2",
+      "3"
+    ],
+    "answer": "88"
+  }
+]

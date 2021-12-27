@@ -54,6 +54,14 @@ public class PlayerController : MonoBehaviour
 
     void Update()
     {
+        if (!PopupManager.Instance.isShow)
+        {
+            Run();
+        }
+    }
+
+    private void Run()
+    {
         if (!PlayerManager.isGameStarted || PlayerManager.gameOver)
             return;
 
@@ -136,8 +144,11 @@ public class PlayerController : MonoBehaviour
     {
         if(hit.transform.tag == "Obstacle")
         {
-            PlayerManager.gameOver = true;
-            FindObjectOfType<AudioManager>().PlaySound("GameOver");
+            QuestionPopup.Instance.Show();
+            hit.gameObject.SetActive(false);
+            // Time.timeScale = 0;
+            // PlayerManager.gameOver = true;
+            // FindObjectOfType<AudioManager>().PlaySound("GameOver");
         }
     }
 
