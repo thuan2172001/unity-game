@@ -1,0 +1,254 @@
+
+Egg_Tectos_1.png
+size: 541,334
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skin1/Bubble1
+  rotate: false
+  xy: 493, 118
+  size: 16, 14
+  orig: 18, 16
+  offset: 1, 1
+  index: -1
+skin1/Bubble2
+  rotate: false
+  xy: 382, 41
+  size: 21, 21
+  orig: 23, 23
+  offset: 1, 1
+  index: -1
+skin1/Bubble3
+  rotate: false
+  xy: 382, 25
+  size: 15, 14
+  orig: 17, 16
+  offset: 1, 1
+  index: -1
+skin1/Egg
+  rotate: true
+  xy: 2, 2
+  size: 330, 378
+  orig: 330, 378
+  offset: 0, 0
+  index: -1
+skin1/LIght1
+  rotate: false
+  xy: 444, 65
+  size: 47, 67
+  orig: 47, 67
+  offset: 0, 0
+  index: -1
+skin1/Light2
+  rotate: false
+  xy: 382, 64
+  size: 60, 68
+  orig: 60, 68
+  offset: 0, 0
+  index: -1
+skin1/Signal
+  rotate: false
+  xy: 382, 134
+  size: 157, 198
+  orig: 157, 198
+  offset: 0, 0
+  index: -1
+
+Egg_Tectos_12.png
+size: 410,262
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skin2/Layer 10
+  rotate: false
+  xy: 334, 170
+  size: 74, 90
+  orig: 74, 90
+  offset: 0, 0
+  index: -1
+skin2/Layer 7
+  rotate: false
+  xy: 2, 2
+  size: 330, 258
+  orig: 330, 406
+  offset: 0, 0
+  index: -1
+
+Egg_Tectos_13.png
+size: 406,543
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skin3/Group 5
+  rotate: false
+  xy: 2, 186
+  size: 402, 355
+  orig: 402, 470
+  offset: 0, 0
+  index: -1
+skin3/Layer 18
+  rotate: false
+  xy: 2, 2
+  size: 272, 182
+  orig: 280, 194
+  offset: 5, 12
+  index: -1
+skin3/Layer 66
+  rotate: false
+  xy: 276, 28
+  size: 108, 156
+  orig: 108, 156
+  offset: 0, 0
+  index: -1
+
+Egg_Tectos_14.png
+size: 570,298
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skin4/Layer 10
+  rotate: true
+  xy: 436, 118
+  size: 178, 132
+  orig: 260, 169
+  offset: 10, 21
+  index: -1
+skin4/Layer 17
+  rotate: true
+  xy: 2, 2
+  size: 294, 302
+  orig: 296, 319
+  offset: 1, 17
+  index: -1
+skin4/Layer 64
+  rotate: false
+  xy: 306, 93
+  size: 128, 203
+  orig: 128, 203
+  offset: 0, 0
+  index: -1
+skin4/Layer 68
+  rotate: false
+  xy: 436, 7
+  size: 127, 109
+  orig: 127, 109
+  offset: 0, 0
+  index: -1
+skin4/Layer 69
+  rotate: false
+  xy: 306, 56
+  size: 18, 12
+  orig: 19, 12
+  offset: 1, 0
+  index: -1
+skin4/Layer 70
+  rotate: false
+  xy: 333, 78
+  size: 17, 13
+  orig: 17, 13
+  offset: 0, 0
+  index: -1
+skin4/Layer 71
+  rotate: false
+  xy: 306, 70
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
+
+Egg_Tectos_15.png
+size: 619,525
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skin5/Group 7
+  rotate: false
+  xy: 2, 2
+  size: 179, 135
+  orig: 179, 148
+  offset: 0, 1
+  index: -1
+skin5/Group 8
+  rotate: true
+  xy: 2, 139
+  size: 384, 330
+  orig: 384, 336
+  offset: 0, 0
+  index: -1
+skin5/Layer 13
+  rotate: false
+  xy: 536, 76
+  size: 56, 42
+  orig: 56, 42
+  offset: 0, 0
+  index: -1
+skin5/Layer 14
+  rotate: false
+  xy: 334, 179
+  size: 283, 344
+  orig: 284, 345
+  offset: 1, 0
+  index: -1
+skin5/Layer 64
+  rotate: true
+  xy: 397, 90
+  size: 87, 77
+  orig: 88, 77
+  offset: 0, 0
+  index: -1
+skin5/Layer 73
+  rotate: true
+  xy: 183, 11
+  size: 126, 93
+  orig: 126, 93
+  offset: 0, 0
+  index: -1
+skin5/Layer 75
+  rotate: true
+  xy: 521, 19
+  size: 55, 53
+  orig: 57, 53
+  offset: 2, 0
+  index: -1
+skin5/Layer 76
+  rotate: true
+  xy: 278, 16
+  size: 121, 117
+  orig: 122, 117
+  offset: 0, 0
+  index: -1
+skin5/Layer 77
+  rotate: true
+  xy: 459, 27
+  size: 61, 60
+  orig: 61, 60
+  offset: 0, 0
+  index: -1
+skin5/Layer 78
+  rotate: false
+  xy: 397, 25
+  size: 60, 63
+  orig: 60, 64
+  offset: 0, 0
+  index: -1
+skin5/Layer 79
+  rotate: false
+  xy: 476, 119
+  size: 58, 58
+  orig: 59, 59
+  offset: 1, 0
+  index: -1
+skin5/Layer 80
+  rotate: false
+  xy: 536, 120
+  size: 57, 57
+  orig: 57, 58
+  offset: 0, 1
+  index: -1
+skin5/Layer 81
+  rotate: true
+  xy: 334, 148
+  size: 29, 23
+  orig: 30, 23
+  offset: 1, 0
+  index: -1

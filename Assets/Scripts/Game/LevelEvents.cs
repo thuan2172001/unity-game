@@ -12,9 +12,11 @@ public class LevelEvents : MonoBehaviour
         if (!PlayerManager.isGameStarted)
             return;
 
-        if (PlayerManager.gameOver)
+        if (PlayerManager.gameOver) {
             pauseButton.interactable = false;
-
+            pauseButton.gameObject.SetActive(false);
+        }
+            
         if (PlayerManager.gameOver)
             return;
 
