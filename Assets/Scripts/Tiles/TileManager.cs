@@ -8,7 +8,7 @@ public class TileManager : MonoBehaviour
 
     public float tileLength = 30;
     public int numberOfTiles = 3;
-    public int totalNumOfTiles = 8;
+    public int totalNumOfTiles = 10;
 
     public float zSpawn = 0;
 
@@ -48,10 +48,10 @@ public class TileManager : MonoBehaviour
     {
         GameObject tile = tilePrefabs[index];
         if (tile.activeInHierarchy)
-            tile = tilePrefabs[index + 8];
+            tile = tilePrefabs[index + totalNumOfTiles];
 
         if(tile.activeInHierarchy)
-            tile = tilePrefabs[index + 16];
+            tile = tilePrefabs[index + totalNumOfTiles * 2];
 
         tile.transform.position = Vector3.forward * zSpawn;
         tile.transform.rotation = Quaternion.identity;
