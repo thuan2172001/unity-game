@@ -33,8 +33,7 @@ public class PopupManager : MonoBehaviour
     {
         // StreamReader r = new StreamReader(@"Assets\Scripts\QuestionPopup\data.json");
         isShow = false;
-        // json = File.ReadAllText(@"C:\Project\computer-graphic-unity\Assets\Scripts\QuestionPopup\data.json.txt");
-        json = File.ReadAllText(@"D:\workspace\Endless-Runner-Game-master\Assets\Scripts\QuestionPopup\sample (1).json");
+        json = File.ReadAllText(@"Assets\Scripts\QuestionPopup\sample (1).json");
         Debug.Log(json);
         questions = JsonConvert.DeserializeObject<List<Question2>>(json);
     }
