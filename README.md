@@ -1,6 +1,6 @@
-Game chạy vượt chướng ngại vật
-Người chơi có thể mua các characters khác nhau trong cửa hàng dựa vào số coin mà người chơi có.
-Coin được tích lũy qua các lượt chơi, người chơi nhận được coin sau khi vượt được một chướng ngại vật hoặc nhặt coin có trên đường.
+### Game chạy vượt chướng ngại vật
+### Người chơi có thể mua các characters khác nhau trong cửa hàng dựa vào số coin mà người chơi có.
+### Coin được tích lũy qua các lượt chơi, người chơi nhận được coin sau khi vượt được một chướng ngại vật hoặc nhặt coin có trên đường.
 
 Cách chơi:
 + Người chơi sử dụng bốn phím lên, sang trái, sang phải, xuống để điều khiển nhân vật của mình.
