@@ -23,6 +23,9 @@ public class ShopManager : MonoBehaviour
         {
             if (c.price != 0)
                 c.isLocked = PlayerPrefs.GetInt(c.name, 1) == 1 ? true : false;
+            
+            // cheat reset character in loop
+            // PlayerPrefs.SetInt(c.name, 1);
         }
 
         characterIndex = PlayerPrefs.GetInt("SelectedCharacter", 0);
